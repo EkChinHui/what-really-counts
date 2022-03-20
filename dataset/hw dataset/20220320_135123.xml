@@ -1,0 +1,50 @@
+<annotation>
+	<folder>hw dataset</folder>
+	<filename>20220320_135123.jpg</filename>
+	<path>/home/leehws/Projects/NUS/hw dataset/20220320_135123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>$10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>988</xmin>
+			<ymin>615</ymin>
+			<xmax>2640</xmax>
+			<ymax>1683</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>$2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>1333</ymin>
+			<xmax>1455</xmax>
+			<ymax>2653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>$2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>959</xmin>
+			<ymin>2043</ymin>
+			<xmax>2310</xmax>
+			<ymax>3627</ymax>
+		</bndbox>
+	</object>
+</annotation>
