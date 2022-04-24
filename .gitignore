@@ -4,3 +4,4 @@ TRAIN_images.json
 
 .ipynb_checkpoints/
 __pycache__/
+model
