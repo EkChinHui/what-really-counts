@@ -1,6 +1,6 @@
 /dataset/*
-TRAIN_objects.json
-TRAIN_images.json
+objects.json
+images.json
 
 .ipynb_checkpoints/
 __pycache__/
